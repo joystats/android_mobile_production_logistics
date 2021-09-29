@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/activedItem"
+        android:title="รอย้ายเข้าปลายทาง"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/finishedItem"
+        android:title="ขนย้ายเสร็จประจำวัน"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/settings"
+        android:title="โซน Inbound รับผิดชอบ"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/setting_outbound_zone"
+        android:title="โซน Outbound รับผิดชอบ"
+        app:showAsAction="never" />
+</menu>

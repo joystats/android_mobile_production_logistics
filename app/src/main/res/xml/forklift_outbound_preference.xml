@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_a1"
+        android:title="A1 โรง 1 พิมพ์ชีท" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_a2"
+        android:title="A2 รอยต่อ 1-2 พิมพ์ชีท" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_b"
+        android:title="B รอยต่อ 1-2 ไดคัท" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_c"
+        android:title="C โรง 2 เย็บเข็ม" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_d"
+        android:title="D โรง 3 ทำมือ" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_e"
+        android:title="E โรง 3 เคลือบ" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_f"
+        android:title="F โรง 6 พับ" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_g"
+        android:title="G โรง 5 แพ็คกิ้ง" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_gmp"
+        android:title="GMP โซน GMP" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_h"
+        android:title="H โรง 5 ตัด" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_i"
+        android:title="I โรง 5 ไสกาว เย็บเข็ม" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_j"
+        android:title="J โรง 4 พิมพ์เว็บ" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_k"
+        android:title="K ชั้น 2 หลังการพิมพ์เครื่อง" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_oem"
+        android:title="OEM ส่งผลิตข้างนอก" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="forklift_zone_fg"
+        android:title="FG Finish Good" />
+</PreferenceScreen>

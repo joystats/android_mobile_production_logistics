@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.andrognito.flashbar:flashbar:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33b8899e36c438866dd67950e11e0b13/jetified-flashbar-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33b8899e36c438866dd67950e11e0b13/jetified-flashbar-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33b8899e36c438866dd67950e11e0b13/jetified-flashbar-1.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e2b27f4b19b497fdeab54dfbea37d9a/jetified-flashbar-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e2b27f4b19b497fdeab54dfbea37d9a/jetified-flashbar-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8e2b27f4b19b497fdeab54dfbea37d9a/jetified-flashbar-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d0d7a888586eb569b876719924de4a46/transformed/jetified-flashbar-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0d7a888586eb569b876719924de4a46/transformed/jetified-flashbar-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d0d7a888586eb569b876719924de4a46/transformed/jetified-flashbar-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc91cf7a518d9effada11f16f4bf3ca8/transformed/jetified-flashbar-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fc91cf7a518d9effada11f16f4bf3ca8/transformed/jetified-flashbar-1.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fc91cf7a518d9effada11f16f4bf3ca8/transformed/jetified-flashbar-1.0.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.andrognito.flashbar/flashbar/1.0.3/ff41f9d6b595aca6b31da25b682f18d16a994ecd/flashbar-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.andrognito.flashbar/flashbar/1.0.3/3b046ce21e7b122759e59138067bc9a9f62b5840/flashbar-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

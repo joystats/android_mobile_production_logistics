@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SIRI PL v2.1</string>
+    <string name="open_menu">Open menu</string>
+    <string name="close_menu">Close menu</string>
+
+    <string name="pref_list_array_default">list_2</string>
+    <string name="pref_list_array_summary">list_2</string>
+    <string name="product_version">ระบบขนย้ายผลิตภัณฑ์ v2.1</string>
+    <string name="product_name">Production Logistics</string>
+
+    <string-array name="pref_list_array_title">
+        <item>List 1</item>
+        <item>List 2</item>
+        <item>List 3</item>
+    </string-array>
+    <string-array name="pref_list_array_value">
+        <item>list_1</item>
+        <item>list_2</item>
+        <item>list_3</item>
+    </string-array>
+</resources>
